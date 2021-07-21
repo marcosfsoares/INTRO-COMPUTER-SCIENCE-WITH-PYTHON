@@ -1,3 +1,4 @@
+# Dada a quantidade da sequênciua, verifica cada número se é par ou impar.
 def main():
     par = 0
     impar = 0

@@ -1,4 +1,4 @@
-# Fatorial
+# Fatorial de n
 def main():
     
     n = int(input("Digite o valor de n:"))

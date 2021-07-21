@@ -1,4 +1,4 @@
-# Saber se os números
+# Saber se os números da sequência de três estão em ordem crescente
 def main():
     x1 = int(input("Digite o primeiro número inteiro: "))
     x2 = int(input("Digite o segundo número inteiro: "))

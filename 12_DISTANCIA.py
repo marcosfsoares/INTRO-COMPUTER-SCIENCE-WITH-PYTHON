@@ -1,4 +1,4 @@
-# Longe se distância entre 2 pontos for maior que 10.
+# Imprime "Longe" se distância entre 2 pontos for maior que 10.
 def main():
     
     import math

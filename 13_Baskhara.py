@@ -1,4 +1,4 @@
-# raízes da equação desegundo grau ax2 + bx + c
+# Raízes da equação de segundo grau ax2 + bx + c
 
 def main():
     

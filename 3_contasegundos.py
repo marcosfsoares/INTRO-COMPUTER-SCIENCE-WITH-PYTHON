@@ -1,3 +1,4 @@
+# Converte segundos em dias, meses, horas, minutos e segundos
 seg_total = input("Por favor, entre com o número de segundos que deseja converter:")
 
 horas = int(seg_total) // 3600

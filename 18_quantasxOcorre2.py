@@ -1,4 +1,4 @@
-# Melhorado. Dado um número n > 0, verifica a quantidade de dígitos d existentes
+# Melhorado. Dado um número n > 0, verifica a quantidade de dígitos d existentes.
 def main():
     repeticao = 0
     n = int(input("Digite o valor de n (n>0): "))

@@ -1,4 +1,4 @@
-# Verifica quantas vezes ocorre o dígito "d" no número "n".
+# Dado n>0, Verifica quantas vezes ocorre o dígito "d" no número "n".
 def main():
 
     repeticao = 0

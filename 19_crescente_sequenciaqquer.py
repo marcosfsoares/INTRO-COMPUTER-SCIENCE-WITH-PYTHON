@@ -1,4 +1,4 @@
-# Verifica se uma sequancia de numeros está em ordem crescente
+# Verifica se uma sequência de numeros está em ordem crescente.
 def main():
     ant = 0
     decrescente = 0

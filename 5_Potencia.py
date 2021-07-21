@@ -1,4 +1,4 @@
-# n elevado a k
+# Potenciação. n elevado a k
 def main():
     pot = 1
     i = 0

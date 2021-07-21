@@ -1,4 +1,4 @@
-
+# Imprime uma mensagem de aviso de vencimento da fatura
 nome = input("Digite o nome do cliente:")
 dia = input("Digite o dia de vencimento:")
 mes = input("Digite o mês de vencimento:")
