@@ -1,5 +1,5 @@
 # Test of NIM Game
-*Created for the MOOC Introductino to Software Testing - Coursera Platform*
+*Created for the MOOC Introduction to Software Testing - Coursera Platform*
 
 
 
