@@ -3,7 +3,7 @@
 
 
 
-Course offered by University USP.  Python program was made based on the game requirements as a challenge for other course: Introduction to Computer Science with Python, also offered by USP.
+Course offered by USP University. Python program was made based on the game requirements as a challenge for other course: Introduction to Computer Science with Python, also offered by USP.
 
 
 
@@ -23,7 +23,7 @@ ________________________________________________________________________________
 
 
 
-Curso ofertado pela USP.  Programa de autoria própria, feito no curso Introdução à Ciência de Computação com Python, com base nos requerimentos do jogo.
+Curso ofertado pela USP. Programa de autoria própria, feito no curso Introdução à Ciência de Computação com Python, com base nos requerimentos do jogo.
 
 
 
